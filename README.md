@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a quiz applicaiton**
+ 🔭 I’m currently working on **a  AIO business management applicaiton**
  
  🌱 I’m currently learning **JavaScript, Java, Python**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/amerrittjr/amerrittjr/issues)**
 
 ⚡ Fun fact **Always Trivela shot in FC24, just trust me**
 
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amerrittjr/amerrittjr/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
